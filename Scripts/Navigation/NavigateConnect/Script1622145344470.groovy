@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://vk.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('NavigateConnect/Page_Welcome  VK/input_m.vk.com_email'), '+905453221338')
+
+WebUI.setEncryptedText(findTestObject('NavigateConnect/Page_Welcome  VK/input_m.vk.com_pass'), 'yYCHQKrnkaEeSW8wnmcRVA==')
+
+WebUI.click(findTestObject('NavigateConnect/Page_Welcome  VK/button_Sign in'))
+
+WebUI.click(findTestObject('NavigateConnect/Page_Haberler/span_Profilim'))
+
+WebUI.click(findTestObject('NavigateConnect/Page_Mohamed Kassem/a_Dzenle'))
+
+WebUI.click(findTestObject('NavigateConnect/Page_Sayfalarm dzenle/a_VK Connecta ge'))
+
+WebUI.getUrl()
+
+WebUI.verifyLinksAccessible(['https://connect.vk.com/account/#/personal'])
+
