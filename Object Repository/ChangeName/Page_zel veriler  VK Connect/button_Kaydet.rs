@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kaydet</name>
+   <tag></tag>
+   <elementGuidId>b27da7bd-4038-4fc0-84c3-a3a09ae6e58f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Tappable.Tappable--android.Button.Button--android.Button--sz-m.Button--lvl-primary.Button--aln-center.Button--sizeY-compact.Tappable--sizeX-regular.Tappable--inactive.Tappable--mouse.Tappable--shadowHovered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personal']/div/section/div/form/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Tappable Tappable--android Button Button--android Button--sz-m Button--lvl-primary Button--aln-center Button--sizeY-compact Tappable--sizeX-regular Tappable--inactive Tappable--mouse Tappable--shadowHovered</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kaydet</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal&quot;)/div[@class=&quot;Panel__in&quot;]/section[@class=&quot;Personal--desktop Group Group--android Group--sizeX-regular Group--card&quot;]/div[@class=&quot;Group__inner&quot;]/form[@class=&quot;FormLayout FormLayout--android PersonalForm--desktop&quot;]/div[@class=&quot;FormLayout__container&quot;]/div[@class=&quot;FormItem FormItem--android FormItem--default FormItem--sizeY-compact&quot;]/button[@class=&quot;Tappable Tappable--android Button Button--android Button--sz-m Button--lvl-primary Button--aln-center Button--sizeY-compact Tappable--sizeX-regular Tappable--inactive Tappable--mouse Tappable--shadowHovered&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personal']/div/section/div/form/div/div[3]/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ağustos'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doğum tarihi'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+   </webElementXpaths>
+</WebElementEntity>
